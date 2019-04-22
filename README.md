@@ -6,6 +6,8 @@
 ## 笔记
 
 xmind整理的笔记，下图为笔记样例，持续更新中...
+
+- [**C1W2 神经网络的编程基础A.xmind**](https://github.com/greebear/deeplearning.ai-notes/blob/master/xmind/C1W2/C1W2%20%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E7%9A%84%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80A.xmind)<br>
 ![](imgs/xmindDemo.jpg)
 
 ## 代码
