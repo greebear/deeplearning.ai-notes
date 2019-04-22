@@ -1,6 +1,6 @@
 <h1 align="center">吴恩达《深度学习》学习笔记(xmind)及作业代码</h1>
 
-<p align="center">Author: greebear</a></p>
+<p align="center">**Author**: greebear</a></p>
 
 
 ## 笔记
