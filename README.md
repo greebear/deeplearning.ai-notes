@@ -6,7 +6,7 @@
 ## 笔记
 
 xmind整理的笔记，下图为笔记样例，持续更新中...
-![](imgs/xindDemo.jpg)
+![](imgs/xmindDemo.jpg)
 
 ## 代码
 
