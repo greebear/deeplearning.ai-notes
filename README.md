@@ -1,8 +1,7 @@
 <h1 align="center">吴恩达《深度学习》学习笔记(xmind)及作业代码</h1>
 
-**GitHub** ：https://github.com/imhuay/Algorithm_Interview_Notes-Chinese
+<p align="center">Author: greebear</a></p>
 
-**Author** ：greebear
 
 ## 笔记
 
