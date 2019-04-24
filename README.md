@@ -17,8 +17,8 @@ xmind整理的笔记，持续更新中...
 
 未发布
 
-## 代码讲解视频
-
+## 代码讲解视频(bilibili)
+**bilibili** : https://space.bilibili.com/10410626
 - [**编程作业1：构建一个逻辑回归分类器来识别猫**](https://www.bilibili.com/video/av50307869)<br>
 
 ## 课程地址
