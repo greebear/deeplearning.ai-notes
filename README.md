@@ -1,5 +1,4 @@
-<h1 align="center">吴恩达《深度学习》</h1>
-<h1 align="center">吴恩达《深度学习》学习笔记(xmind)、作业代码、代码视频讲解</h1>
+<h1 align="center">吴恩达《深度学习》/n学习笔记(xmind)、作业代码、代码视频讲解</h1>
 
 **Author** : greebear
 
