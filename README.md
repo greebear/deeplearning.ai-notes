@@ -15,6 +15,8 @@ xmind整理的笔记，持续更新中...
 
 ## 代码
 
+解压后用ipython notebook打开
+
 - [**C1W2 编程作业1：构建一个逻辑回归分类器来识别猫**](https://github.com/greebear/deeplearning.ai-notes/blob/master/assignment/C1/assignment2(C1W2).zip)<br>
 - [**C1W3 编程作业2：通过一个隐藏层的神经网络来做平面数据的分类**](https://github.com/greebear/deeplearning.ai-notes/blob/master/assignment/C1/assignment3(C1W3).zip)<br>
 
