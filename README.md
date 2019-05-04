@@ -9,6 +9,8 @@ xmind整理的笔记，持续更新中...
 
 - [**C1W2 神经网络的编程基础A.xmind**](https://github.com/greebear/deeplearning.ai-notes/blob/master/xmind/C1W2/C1W2%20%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E7%9A%84%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80A.xmind)<br>
 - [**C1W2 神经网络的编程基础B.xmind**](https://github.com/greebear/deeplearning.ai-notes/blob/master/xmind/C1W2/C1W2%20%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E7%9A%84%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80B.xmind)<br>
+- [**C1W3 浅层神经网络A.xmind**](https://github.com/greebear/deeplearning.ai-notes/blob/master/xmind/C1W3/C1W3%20%E6%B5%85%E5%B1%82%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9CA.xmind)<br>
+- [**C1W3 浅层神经网络B.xmind**](https://github.com/greebear/deeplearning.ai-notes/blob/master/xmind/C1W3/C1W3%20%E6%B5%85%E5%B1%82%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9CB.xmind)<br>
 
 样例
 ![](imgs/xmindDemo.jpg)
