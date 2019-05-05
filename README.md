@@ -6,7 +6,7 @@
 ## 笔记
 
 xmind整理的笔记，持续更新中...
-![](imgs/xmindDemo.jpg)
+![](assests/xmindDemo.jpg)
 
 - [**C1W2 神经网络的编程基础A.xmind**](https://github.com/greebear/deeplearning.ai-notes/blob/master/xmind/C1W2/C1W2%20%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E7%9A%84%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80A.xmind)<br>
 - [**C1W2 神经网络的编程基础B.xmind**](https://github.com/greebear/deeplearning.ai-notes/blob/master/xmind/C1W2/C1W2%20%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E7%9A%84%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80B.xmind)<br>
@@ -22,6 +22,7 @@ xmind整理的笔记，持续更新中...
 
 ## 代码讲解视频(bilibili)
 **bilibili主页** : https://space.bilibili.com/10410626
+![](assests/bilibiliDemo.jpg)
 - [**C1W2 编程作业1：构建一个逻辑回归分类器来识别猫**](https://www.bilibili.com/video/av50307869)<br>
 - [**C1W3 编程作业2：编程作业2：通过一个隐藏层的神经网络来做平面数据的分类**](https://www.bilibili.com/video/av50307869)<br>
 
