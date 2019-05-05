@@ -26,7 +26,7 @@ xmind整理的笔记，持续更新中...
 **bilibili主页** : https://space.bilibili.com/10410626
 ![](assets/bilibiliDemo.jpg)
 - [**C1W2 编程作业1：构建一个逻辑回归分类器来识别猫**](https://www.bilibili.com/video/av50307869)<br>
-- [**C1W3 编程作业2：通过一个隐藏层的神经网络来做平面数据的分类**](https://www.bilibili.com/video/av50307869)<br>
+- [**C1W3 编程作业2：通过一个隐藏层的神经网络来做平面数据的分类**](https://www.bilibili.com/video/av51486088)<br>
 
 ## 课程地址
 
