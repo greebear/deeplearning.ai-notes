@@ -13,10 +13,11 @@ xmind整理的笔记，持续更新中...
 - [**C1W3 浅层神经网络A.xmind**](https://github.com/greebear/deeplearning.ai-notes/blob/master/xmind/C1W3/C1W3%20%E6%B5%85%E5%B1%82%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9CA.xmind)<br>
 - [**C1W3 浅层神经网络B.xmind**](https://github.com/greebear/deeplearning.ai-notes/blob/master/xmind/C1W3/C1W3%20%E6%B5%85%E5%B1%82%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9CB.xmind)<br>
 
-## 代码
+## 测验及代码
 
 解压后用ipython notebook打开
-
+- [**C1W1 测验题1【无答案】**]()
+- [**C1W1 测验题1【有答案】**]()
 - [**C1W2 编程作业1：构建一个逻辑回归分类器来识别猫【无答案】**](https://github.com/greebear/deeplearning.ai-notes/blob/master/assignment_noAnswers/C1/assignment2(C1W2).zip)<br>
 - **C1W2 编程作业1：构建一个逻辑回归分类器来识别猫【有答案】** (待发布)
 - [**C1W3 编程作业2：通过一个隐藏层的神经网络来做平面数据的分类【无答案】**](https://github.com/greebear/deeplearning.ai-notes/blob/master/assignment_noAnswers/C1/assignment3(C1W3).zip)<br>
