@@ -15,7 +15,7 @@ xmind整理的笔记，持续更新中...
 
 ## 测验及代码
 
-解压后用ipython notebook打开
+代码文件需解压后用ipython notebook打开
 - [**C1W1 测验题1【无答案】**](https://github.com/greebear/deeplearning.ai-notes/blob/master/%E6%B5%8B%E9%AA%8C%E9%A2%98/C1W1%20%E6%B5%8B%E9%AA%8C%E9%A2%981%E3%80%90%E6%97%A0%E7%AD%94%E6%A1%88%E3%80%91.md)
 - [**C1W1 测验题1【有答案】**](https://github.com/greebear/deeplearning.ai-notes/blob/master/%E6%B5%8B%E9%AA%8C%E9%A2%98/C1W1%20%E6%B5%8B%E9%AA%8C%E9%A2%981%E3%80%90%E6%9C%89%E7%AD%94%E6%A1%88%E3%80%91.md)
 - [**C1W2 编程作业1：构建一个逻辑回归分类器来识别猫【无答案】**](https://github.com/greebear/deeplearning.ai-notes/blob/master/assignment_noAnswers/C1/assignment2(C1W2).zip)<br>
