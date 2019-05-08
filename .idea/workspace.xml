@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e14ae6ad-373c-4c0d-bb94-d4e68f68d3f0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/trials/testAssests/C1W1/trialC1W1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trials/testAssests/C1W2/trialC1W2.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/guide/guide.md" beforeDir="false" afterPath="$PROJECT_DIR$/guide/guide.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,8 +19,8 @@
         <entry file="file://$PROJECT_DIR$/guide/guide.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="120">
-                <caret line="8" column="10" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="34" />
+              <first_editor relative-caret-position="247">
+                <caret line="18" column="44" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
               </first_editor>
               <second_editor />
             </state>
@@ -61,7 +64,37 @@
             <path>
               <item name="deeplearning.ai-notes" type="b2602c69:ProjectViewProjectNode" />
               <item name="deeplearning.ai-notes" type="462c0819:PsiDirectoryNode" />
+              <item name="assignment" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="deeplearning.ai-notes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="deeplearning.ai-notes" type="462c0819:PsiDirectoryNode" />
               <item name="guide" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="deeplearning.ai-notes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="deeplearning.ai-notes" type="462c0819:PsiDirectoryNode" />
+              <item name="trials" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="deeplearning.ai-notes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="deeplearning.ai-notes" type="462c0819:PsiDirectoryNode" />
+              <item name="trials" type="462c0819:PsiDirectoryNode" />
+              <item name="testAssests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="deeplearning.ai-notes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="deeplearning.ai-notes" type="462c0819:PsiDirectoryNode" />
+              <item name="trials" type="462c0819:PsiDirectoryNode" />
+              <item name="testAssests" type="462c0819:PsiDirectoryNode" />
+              <item name="C1W1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="deeplearning.ai-notes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="deeplearning.ai-notes" type="462c0819:PsiDirectoryNode" />
+              <item name="trials" type="462c0819:PsiDirectoryNode" />
+              <item name="testAssests" type="462c0819:PsiDirectoryNode" />
+              <item name="C1W2" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -76,6 +109,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/trials/testAssests/C1W2" />
+      <recent name="$PROJECT_DIR$/trials/testAssests/C1W1" />
       <recent name="$PROJECT_DIR$/测验题" />
     </key>
   </component>
@@ -128,7 +163,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1600" height="790" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1861938" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -211,8 +245,8 @@
     <entry file="file://$PROJECT_DIR$/guide/guide.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="120">
-            <caret line="8" column="10" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="34" />
+          <first_editor relative-caret-position="247">
+            <caret line="18" column="44" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
           </first_editor>
           <second_editor />
         </state>
