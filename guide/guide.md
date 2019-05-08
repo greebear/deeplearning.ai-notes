@@ -1,8 +1,5 @@
 <h1 align="center">学习指南</h1>
 
-**Author** : greebear
-
-
 ## 如何获取每日任务
 
 
