@@ -7,8 +7,15 @@
 
 
 <img src="./guideAssets/miniApp1.jpg" width="200" alt="miniApp1"/><img src="./guideAssets/miniApp2.jpg" width="200" alt="miniApp1"/>
-<img src="./guideAssets/miniApp1.jpg" width="200" alt="miniApp3"/><img src="./guideAssets/miniApp1.jpg" width="200" alt="miniApp4"/>
-1. 打开"深度之眼"公众号，点击 训练营-小程序
+<img src="./guideAssets/miniApp3.jpg" width="200" alt="miniApp3"/><img src="./guideAssets/miniApp4.jpg" width="200" alt="miniApp4"/>
+1. 打开"深度之眼"【公众号】，点击 训练营-【小程序】
+2. 选择【对应课程】进入对应的训练营小程序
+3. 选择顶端【日期】，查看【每日任务】
+    ```diff
+        第一次进入这个小程序的同学找到【最早的日期】，认真观看【开营仪式】)
+    ```
+4. 每日打卡任务可以【全文复制】下来，将文字发送到电脑端方便操作
+
 
 - [**C1W2 神经网络的编程基础A.xmind**](https://github.com/greebear/deeplearning.ai-notes/blob/master/xmind/C1W2/C1W2%20%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E7%9A%84%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80A.xmind)<br>
 - [**C1W2 神经网络的编程基础B.xmind**](https://github.com/greebear/deeplearning.ai-notes/blob/master/xmind/C1W2/C1W2%20%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E7%9A%84%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80B.xmind)<br>
