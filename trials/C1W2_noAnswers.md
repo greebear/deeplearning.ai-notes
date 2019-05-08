@@ -89,7 +89,9 @@ ___
 - [ ] 这里将会报错，因为不能使用“*”对这两个矩阵进行操作。需要使用np.dot（a，b）。
 ___
 > 10、看下面的计算图：
-![computationGraph](./testAssests/C1W2/computationGraph.jpg)
+
+>![computationGraph](./testAssests/C1W2/computationGraph.jpg)
+
 > 请问输出是什么？
 - [ ] J = (c - 1) * (b + a)
 - [ ] J = (a - 1) * (b + c)
