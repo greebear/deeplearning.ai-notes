@@ -1,6 +1,8 @@
 <h1 align="center">《深度学习》学习笔记(xmind)、代码、代码视频讲解</h1>
 
 **Author** : greebear
+## 入门指南
+- [**深度之眼学员入口**](./guide/guide.md)
 
 
 ## 笔记

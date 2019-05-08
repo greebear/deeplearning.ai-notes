@@ -3,7 +3,7 @@
 **Author** : greebear
 
 
-## 笔记
+## 如何获取每日任务
 
 
 <img src="./guideAssets/miniApp1.jpg" width="200" alt="miniApp1"/><img src="./guideAssets/miniApp2.jpg" width="200" alt="miniApp1"/>
@@ -17,30 +17,15 @@
 4. 每日打卡任务可以【全文复制】下来，将文字发送到电脑端方便操作
 
 
-- [**C1W2 神经网络的编程基础A.xmind**](https://github.com/greebear/deeplearning.ai-notes/blob/master/xmind/C1W2/C1W2%20%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E7%9A%84%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80A.xmind)<br>
-- [**C1W2 神经网络的编程基础B.xmind**](https://github.com/greebear/deeplearning.ai-notes/blob/master/xmind/C1W2/C1W2%20%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E7%9A%84%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80B.xmind)<br>
-- [**C1W3 浅层神经网络A.xmind**](https://github.com/greebear/deeplearning.ai-notes/blob/master/xmind/C1W3/C1W3%20%E6%B5%85%E5%B1%82%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9CA.xmind)<br>
-- [**C1W3 浅层神经网络B.xmind**](https://github.com/greebear/deeplearning.ai-notes/blob/master/xmind/C1W3/C1W3%20%E6%B5%85%E5%B1%82%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9CB.xmind)<br>
+## 编程环境配置
 
-## 测验及代码
+实验环境推荐使用Linux或者Mac系统，以下环境搭建方法皆适用:
+- [**本地配置【非常重要】**](https://github.com/learning511/cs224n-learning-camp/blob/master/environment.md)
 
-代码文件需解压后用ipython notebook打开
-- [**C1W1 测验题1【无答案英文版】**](./trials/C1W1/trialC1W1.jpg)
-- [**C1W1 测验题1【无答案中文版】**](./trials/C1W1_noAnswers.md)
-- [**C1W1 测验题1【有答案中文版】**](./trials/C1W1_withAnswers.md)
-- [**C1W2 测验题2【无答案英文版】**](./trials/C1W2/trialC1W2.jpg)
-- [**C1W2 测验题2【无答案中文版】**](./trials/C1W2_noAnswers.md)
-- [**C1W2 编程作业1：构建一个逻辑回归分类器来识别猫【无答案】**](./assignment/assignment_noAnswers/C1/assignment2(C1W2).zip)<br>
-- **C1W2 编程作业1：构建一个逻辑回归分类器来识别猫【有答案】** (待发布)
-- [**C1W3 编程作业2：通过一个隐藏层的神经网络来做平面数据的分类【无答案】**](./assignment/assignment_noAnswers/C1/assignment3(C1W3).zip)<br>
-- **C1W3 编程作业2：通过一个隐藏层的神经网络来做平面数据的分类【有答案】** (待发布)
+    ```diff
+        前四次编程作业无需用到tensorflow
+        同学们可先安装好ipython-notebook
+        待第五次编程作业时再安装tensorflow
+        安装方式不拘泥于上述文档，可搜索适合自己的安装方式
+    ```
 
-## 代码讲解视频(bilibili)
-**bilibili主页** : https://space.bilibili.com/10410626
-![](./assets/bilibiliDemo.jpg)
-- [**C1W2 编程作业1：构建一个逻辑回归分类器来识别猫**](https://www.bilibili.com/video/av50307869)<br>
-- [**C1W3 编程作业2：通过一个隐藏层的神经网络来做平面数据的分类**](https://www.bilibili.com/video/av51486088)<br>
-
-## 课程地址
-
-[deeplearning.ai - 主页 - 网易云课堂](https://study.163.com/provider/2001053000/index.htm)
