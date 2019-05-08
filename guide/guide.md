@@ -5,8 +5,10 @@
 
 ## 笔记
 
-xmind整理的笔记，持续更新中...
-<img src="https://github.com/greebear/deeplearning.ai-notes/blob/master/guide/guideAssets/miniApp1.jpg" width="150" alt="啊"/>
+
+<img src="./guideAssets/miniApp1.jpg" width="200" alt="miniApp1"/><img src="./guideAssets/miniApp2.jpg" width="200" alt="miniApp1"/>
+<img src="./guideAssets/miniApp1.jpg" width="200" alt="miniApp3"/><img src="./guideAssets/miniApp1.jpg" width="200" alt="miniApp4"/>
+1. 打开"深度之眼"公众号，点击 训练营-小程序
 
 - [**C1W2 神经网络的编程基础A.xmind**](https://github.com/greebear/deeplearning.ai-notes/blob/master/xmind/C1W2/C1W2%20%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E7%9A%84%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80A.xmind)<br>
 - [**C1W2 神经网络的编程基础B.xmind**](https://github.com/greebear/deeplearning.ai-notes/blob/master/xmind/C1W2/C1W2%20%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E7%9A%84%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80B.xmind)<br>
