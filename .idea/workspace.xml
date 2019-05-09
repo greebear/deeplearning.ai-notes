@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e14ae6ad-373c-4c0d-bb94-d4e68f68d3f0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/trials/testAssests/C1W1/trialC1W1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trials/testAssests/C1W2/trialC1W2.jpg" afterDir="false" />
+    <list default="true" id="e14ae6ad-373c-4c0d-bb94-d4e68f68d3f0" name="Default Changelist" comment="update readme">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/guide/guide.md" beforeDir="false" afterPath="$PROJECT_DIR$/guide/guide.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trials/testAssests/C1W2/trialC1W2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/trials/testAssests/C1W2/trialC1W2.jpg" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,12 +13,72 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/guide/guide.md">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/trials/C1W2_withAnswers.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="247">
-                <caret line="18" column="44" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
+              <first_editor relative-caret-position="1350">
+                <caret line="90" column="17" selection-start-line="90" selection-start-column="17" selection-end-line="90" selection-end-column="17" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="60">
+                <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/trials/C1W2_noAnswers_EnVer.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor>
+                <caret column="46" lean-forward="true" selection-start-column="46" selection-end-column="46" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/trials/C1W1_noAnswers.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="270">
+                <caret line="18" selection-start-line="18" selection-end-line="18" selection-end-column="56" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/trials/C1W1_withAnswers.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="90">
+                <caret line="6" selection-start-line="6" selection-end-line="8" selection-end-column="7" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/trials/C1W2_noAnswers.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="462">
+                <caret line="94" column="27" selection-start-line="94" selection-start-column="27" selection-end-line="94" selection-end-column="27" />
               </first_editor>
               <second_editor />
             </state>
@@ -37,10 +95,12 @@
       <list>
         <option value="$PROJECT_DIR$/测验题/C1W1 测验题.md" />
         <option value="$PROJECT_DIR$/测验题/C1W1 测验题【无答案】.md" />
-        <option value="$PROJECT_DIR$/trials/C1W2_noAnswers.md" />
-        <option value="$PROJECT_DIR$/trials/C1W2_withAnswers.md" />
-        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/trials/C1W1_noAnswers_EnVer.md" />
+        <option value="$PROJECT_DIR$/trials/C1W2_noAnswers_EnVer.md" />
         <option value="$PROJECT_DIR$/guide/guide.md" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/trials/C1W2_withAnswers.md" />
+        <option value="$PROJECT_DIR$/trials/C1W2_noAnswers.md" />
       </list>
     </option>
   </component>
@@ -54,6 +114,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -61,46 +122,10 @@
               <item name="deeplearning.ai-notes" type="b2602c69:ProjectViewProjectNode" />
               <item name="deeplearning.ai-notes" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="deeplearning.ai-notes" type="b2602c69:ProjectViewProjectNode" />
-              <item name="deeplearning.ai-notes" type="462c0819:PsiDirectoryNode" />
-              <item name="assignment" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="deeplearning.ai-notes" type="b2602c69:ProjectViewProjectNode" />
-              <item name="deeplearning.ai-notes" type="462c0819:PsiDirectoryNode" />
-              <item name="guide" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="deeplearning.ai-notes" type="b2602c69:ProjectViewProjectNode" />
-              <item name="deeplearning.ai-notes" type="462c0819:PsiDirectoryNode" />
-              <item name="trials" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="deeplearning.ai-notes" type="b2602c69:ProjectViewProjectNode" />
-              <item name="deeplearning.ai-notes" type="462c0819:PsiDirectoryNode" />
-              <item name="trials" type="462c0819:PsiDirectoryNode" />
-              <item name="testAssests" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="deeplearning.ai-notes" type="b2602c69:ProjectViewProjectNode" />
-              <item name="deeplearning.ai-notes" type="462c0819:PsiDirectoryNode" />
-              <item name="trials" type="462c0819:PsiDirectoryNode" />
-              <item name="testAssests" type="462c0819:PsiDirectoryNode" />
-              <item name="C1W1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="deeplearning.ai-notes" type="b2602c69:ProjectViewProjectNode" />
-              <item name="deeplearning.ai-notes" type="462c0819:PsiDirectoryNode" />
-              <item name="trials" type="462c0819:PsiDirectoryNode" />
-              <item name="testAssests" type="462c0819:PsiDirectoryNode" />
-              <item name="C1W2" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -109,6 +134,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/trials" />
       <recent name="$PROJECT_DIR$/trials/testAssests/C1W2" />
       <recent name="$PROJECT_DIR$/trials/testAssests/C1W1" />
       <recent name="$PROJECT_DIR$/测验题" />
@@ -158,11 +184,68 @@
       <option name="project" value="LOCAL" />
       <updated>1557327570921</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="update readme">
+      <created>1557329960301</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1557329960302</updated>
+    </task>
+    <task id="LOCAL-00005" summary="update readme">
+      <created>1557330042293</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1557330042293</updated>
+    </task>
+    <task id="LOCAL-00006" summary="update readme">
+      <created>1557330520456</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1557330520457</updated>
+    </task>
+    <task id="LOCAL-00007" summary="update readme">
+      <created>1557330613599</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1557330613599</updated>
+    </task>
+    <task id="LOCAL-00008" summary="update guide">
+      <created>1557331215589</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1557331215589</updated>
+    </task>
+    <task id="LOCAL-00009" summary="update readme">
+      <created>1557331553774</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1557331553774</updated>
+    </task>
+    <task id="LOCAL-00010" summary="update readme">
+      <created>1557332526456</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1557332526456</updated>
+    </task>
+    <task id="LOCAL-00011" summary="change the order of options">
+      <created>1557403736130</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1557403736130</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1600" height="790" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1861938" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -186,11 +269,73 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="链接整理" />
     <MESSAGE value="删除多余文件" />
-    <option name="LAST_COMMIT_MESSAGE" value="删除多余文件" />
+    <MESSAGE value="update guide" />
+    <MESSAGE value="update readme" />
+    <MESSAGE value="change the order of options" />
+    <option name="LAST_COMMIT_MESSAGE" value="change the order of options" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/测验题/C1W1 测验题1【有答案】.md" />
     <entry file="file://$PROJECT_DIR$/测验题/C1W1 测验题1【无答案】.md" />
+    <entry file="file://$PROJECT_DIR$/trials/.idea/backup.iml" />
+    <entry file="file://$PROJECT_DIR$/trials/.idea/encodings.xml" />
+    <entry file="file://$PROJECT_DIR$/trials/.idea/misc.xml" />
+    <entry file="file://$PROJECT_DIR$/trials/C1W1_noAnswers_EnVer.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret selection-end-column="46" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/guide/guideAssets/miniApp1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/guide/guideAssets/miniApp3.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/guide/guide.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="420">
+            <caret line="28" column="33" lean-forward="true" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trials/C1W2_withAnswers.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1350">
+            <caret line="90" column="17" selection-start-line="90" selection-start-column="17" selection-end-line="90" selection-end-column="17" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trials/C1W2_noAnswers.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="462">
+            <caret line="94" column="27" selection-start-line="94" selection-start-column="27" selection-end-line="94" selection-end-column="27" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trials/C1W1_noAnswers.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="270">
+            <caret line="18" selection-start-line="18" selection-end-line="18" selection-end-column="56" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/trials/C1W1_withAnswers.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -201,52 +346,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/trials/C1W2_noAnswers.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1380">
-            <caret line="92" column="1" selection-start-line="92" selection-start-column="1" selection-end-line="92" selection-end-column="1" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/trials/C1W2_withAnswers.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="442">
-            <caret line="113" column="53" selection-start-line="113" selection-start-column="53" selection-end-line="113" selection-end-column="53" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/trials/C1W1_noAnswers.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/trials/.idea/backup.iml" />
-    <entry file="file://$PROJECT_DIR$/trials/.idea/encodings.xml" />
-    <entry file="file://$PROJECT_DIR$/trials/.idea/misc.xml" />
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="210">
-            <caret line="14" lean-forward="true" selection-end-line="35" />
+          <first_editor relative-caret-position="60">
+            <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/guide/guide.md">
+    <entry file="file://$PROJECT_DIR$/trials/C1W2_noAnswers_EnVer.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="247">
-            <caret line="18" column="44" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
+          <first_editor>
+            <caret column="46" lean-forward="true" selection-start-column="46" selection-end-column="46" />
           </first_editor>
           <second_editor />
         </state>
