@@ -29,8 +29,10 @@
 ## 编程作业怎么做？
 
 1.打开 [**https://github.com/greebear/deeplearning.ai-notes**](https://github.com/learning511/cs224n-learning-camp/blob/master/environment.md)找到本次作业，或通过小程序中发布的网盘链接下载编程作业。
+
+
 ![locateAssignment](guideAssets/locateAssignment.jpg)
----
+
 ![downloadAssignmet](guideAssets/downloadAssignmet.jpg)
 
 2.下载并解压压缩包，可以看到这样的目录(以第一次编程作业为例)。
@@ -41,6 +43,8 @@
 ![assignmentTree](guideAssets/assignmentTree.jpg)
 
 4.打开 **ipython(jupyter) notebook** ，进入后如下图所示。红框处为第一次编程作业"C1W2 编程作业1：构建一个逻辑回归分类器来识别猫"
+
+
 ![openIPython](guideAssets/openIPython.jpg)
 
 5.点击进入后，可以看到许多代码，找到下面的【注释内容】，我们需要在中间填入代码。
