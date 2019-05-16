@@ -40,7 +40,7 @@ xmind整理的笔记，持续更新中...
 - [**C1W2 编程作业1：构建一个逻辑回归分类器来识别猫【无答案】**](./assignment/assignment_noAnswers/C1/assignment2(C1W2).zip)<br>
 - [**C1W2 编程作业1：构建一个逻辑回归分类器来识别猫【有答案】**](./assignment/assignment_withAnswers/C1/assignment2(C1W2).zip)<br>
 - [**C1W3 编程作业2：通过一个隐藏层的神经网络来做平面数据的分类【无答案】**](./assignment/assignment_noAnswers/C1/assignment3(C1W3).zip)<br>
-- **C1W3 编程作业2：通过一个隐藏层的神经网络来做平面数据的分类【有答案】** (待发布)
+- [**C1W3 编程作业2：通过一个隐藏层的神经网络来做平面数据的分类【有答案】**](./assignment/assignment_withAnswers/C1/assignment3(C1W3).zip)<br>
 
 ## 代码讲解视频(bilibili)
 **bilibili主页** : https://space.bilibili.com/10410626
