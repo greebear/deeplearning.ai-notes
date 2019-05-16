@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e14ae6ad-373c-4c0d-bb94-d4e68f68d3f0" name="Default Changelist" comment="add C1W3trial analysis">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xmind/C1W3/C1W3 浅层神经网络B.xmind" beforeDir="false" afterPath="$PROJECT_DIR$/xmind/C1W3/C1W3 浅层神经网络B.xmind" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,8 +16,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="263">
-                <caret line="42" column="74" selection-start-line="42" selection-start-column="74" selection-end-line="42" selection-end-column="74" />
+              <first_editor relative-caret-position="173">
+                <caret line="36" column="5" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
               </first_editor>
               <second_editor />
             </state>
@@ -53,7 +52,7 @@
         <entry file="file://$PROJECT_DIR$/trials/C1W3_withAnswers.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="207">
+              <first_editor relative-caret-position="1440">
                 <caret line="96" column="30" selection-start-line="96" selection-start-column="30" selection-end-line="96" selection-end-column="30" />
               </first_editor>
               <second_editor />
@@ -103,7 +102,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="14" />
     <option name="y" value="27" />
     <option name="width" value="1600" />
@@ -114,6 +113,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -137,17 +137,10 @@
               <item name="deeplearning.ai-notes" type="462c0819:PsiDirectoryNode" />
               <item name="xmind" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="deeplearning.ai-notes" type="b2602c69:ProjectViewProjectNode" />
-              <item name="deeplearning.ai-notes" type="462c0819:PsiDirectoryNode" />
-              <item name="xmind" type="462c0819:PsiDirectoryNode" />
-              <item name="C1W3" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -403,11 +396,19 @@
       <option name="project" value="LOCAL" />
       <updated>1557973644264</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="delete assignment3(C1W3) for float128 problem">
+      <created>1557992086349</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1557992086349</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="14" y="27" width="1600" height="790" extended-state="0" />
+    <frame x="0" y="23" width="1600" height="790" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11526282" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -448,7 +449,8 @@
     <MESSAGE value="fix C1W3trial" />
     <MESSAGE value="add C1W3trial analysis" />
     <MESSAGE value="add c1w2 code with answers" />
-    <option name="LAST_COMMIT_MESSAGE" value="add c1w2 code with answers" />
+    <MESSAGE value="delete assignment3(C1W3) for float128 problem" />
+    <option name="LAST_COMMIT_MESSAGE" value="delete assignment3(C1W3) for float128 problem" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/测验题/C1W1 测验题1【有答案】.md" />
@@ -534,6 +536,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="173">
+            <caret line="36" column="5" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/trials/C1W3_noAnswers.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -554,31 +566,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/trials/C1W2_withAnswers.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="90">
-            <caret line="6" selection-start-line="6" selection-end-line="8" selection-end-column="7" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/trials/C1W3_withAnswers.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="207">
+          <first_editor relative-caret-position="1440">
             <caret line="96" column="30" selection-start-line="96" selection-start-column="30" selection-end-line="96" selection-end-column="30" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/trials/C1W2_withAnswers.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="263">
-            <caret line="42" column="74" selection-start-line="42" selection-start-column="74" selection-end-line="42" selection-end-column="74" />
+          <first_editor relative-caret-position="90">
+            <caret line="6" selection-start-line="6" selection-end-line="8" selection-end-column="7" />
           </first_editor>
           <second_editor />
         </state>
