@@ -26,3 +26,44 @@
         安装方式不拘泥于上述文档，可搜索适合自己的安装方式
     ```
 
+## 编程作业怎么做？
+
+1.打开 [**https://github.com/greebear/deeplearning.ai-notes**](https://github.com/learning511/cs224n-learning-camp/blob/master/environment.md)找到本次作业，或通过小程序中发布的网盘链接下载编程作业。
+
+
+![locateAssignment](guideAssets/locateAssignment.jpg)
+
+![downloadAssignmet](guideAssets/downloadAssignmet.jpg)
+
+2.下载并解压压缩包，可以看到这样的目录(以第一次编程作业为例)。
+![uzipAssignment](guideAssets/uzipAssignment.jpg)
+
+3.第一次编程作业的目录列表如下图所示，红框处为本次作业需要填写代码的文件。
+
+![assignmentTree](guideAssets/assignmentTree.jpg)
+
+4.打开 **ipython(jupyter) notebook** ，进入后如下图所示。红框处为第一次编程作业"C1W2 编程作业1：构建一个逻辑回归分类器来识别猫"
+
+
+![openIPython](guideAssets/openIPython.jpg)
+
+5.点击进入后，可以看到许多代码，找到下面的【注释内容】，我们需要在中间填入代码。
+
+
+    ### START CODE HERE ###
+    ### END CODE HERE ###
+
+
+比如：  
+
+![locateToCode](guideAssets/locateToCode.jpg)
+
+我们需要修改None为自己编程的代码
+
+![completeCode](guideAssets/completeCode.jpg)
+
+6.运行代码块后，查看输出结果，与下面的答案校验。
+![checkAnswer](guideAssets/checkAnswer.jpg)
+
+7.恭喜你，答对了！
+
