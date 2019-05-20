@@ -34,6 +34,7 @@ xmind整理的笔记，持续更新中...
 - [**C1W1 深度学习引言【有答案】**](./trials/C1W1_withAnswers.md)
 - [**C1W2 神经网络的编程基础【有答案】**](./trials/C1W2_withAnswers.md)
 - [**C1W3 浅层神经网络【有答案】**](./trials/C1W3_withAnswers.md)
+- [**C1W4 深层神经网络【有答案】**](./trials/C1W4_withAnswers.md)
 ---
 
 ## 代码
