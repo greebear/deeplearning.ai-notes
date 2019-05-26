@@ -8,14 +8,14 @@
 ## 笔记
 
 xmind整理的笔记，持续更新中...
-[![](assets/xmindDemo.jpg)](https://github.com/greebear/deeplearning.ai-notes/blob/master/xmind/)
+[![](assets/xmindDemo.jpg)](./xmind/)
 
-- [**C1W2 神经网络的编程基础A.xmind**](https://github.com/greebear/deeplearning.ai-notes/blob/master/xmind/C1W2/C1W2%20%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E7%9A%84%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80A.xmind)<br>
-- [**C1W2 神经网络的编程基础B.xmind**](https://github.com/greebear/deeplearning.ai-notes/blob/master/xmind/C1W2/C1W2%20%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E7%9A%84%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80B.xmind)<br>
-- [**C1W3 浅层神经网络A.xmind**](https://github.com/greebear/deeplearning.ai-notes/blob/master/xmind/C1W3/C1W3%20%E6%B5%85%E5%B1%82%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9CA.xmind)<br>
-- [**C1W3 浅层神经网络B.xmind**](https://github.com/greebear/deeplearning.ai-notes/blob/master/xmind/C1W3/C1W3%20%E6%B5%85%E5%B1%82%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9CB.xmind)<br>
-- [**C2W1 浅层神经网络A.xmind**](/xmind/C1W4/C1W4%20深度神经网络A.xmind)
-- [**C2W1 浅层神经网络B.xmind**](/xmind/C1W4/C1W4%20深度神经网络B.xmind)
+- [**C1W2 神经网络的编程基础A.xmind**](./xmind/C1W2/C1W2%20神经网络的编程基础A.xmind)
+- [**C1W2 神经网络的编程基础B.xmind**](./xmind/C1W2/C1W2%20神经网络的编程基础B.xmind)
+- [**C1W3 浅层神经网络A.xmind**](./xmind/C1W3/C1W3%20浅层神经网络A.xmind)
+- [**C1W3 浅层神经网络B.xmind**](./xmind/C1W3/C1W3%20浅层神经网络B.xmind)
+- [**C2W1 浅层神经网络A.xmind**](./xmind/C1W4/C1W4%20深度神经网络A.xmind)
+- [**C2W1 浅层神经网络B.xmind**](./xmind/C1W4/C1W4%20深度神经网络B.xmind)
 ## 测验
 
 ---
@@ -44,19 +44,19 @@ xmind整理的笔记，持续更新中...
 ## 代码
 代码文件需解压后用ipython notebook打开
 
-- [**C1W2 编程作业1：构建一个逻辑回归分类器来识别猫【无答案】**](./assignment/assignment_noAnswers/C1/assignment2(C1W2).zip)<br>
-- [**C1W2 编程作业1：构建一个逻辑回归分类器来识别猫【有答案】**](./assignment/assignment_withAnswers/C1/assignment2(C1W2).zip)<br>
-- [**C1W3 编程作业2：通过一个隐藏层的神经网络来做平面数据的分类【无答案】**](./assignment/assignment_noAnswers/C1/assignment3(C1W3).zip)<br>
-- [**C1W3 编程作业2：通过一个隐藏层的神经网络来做平面数据的分类【有答案】**](./assignment/assignment_withAnswers/C1/assignment3(C1W3).zip)<br>
-- [**C1W4 编程作业3：构建深度神经网络做图像处理【无答案】**](./assignment/assignment_noAnswers/C1/assignment4(C1W4).zip)<br>
-- [**C1W4 编程作业3：构建深度神经网络做图像处理【有答案】**](./assignment/assignment_withAnswers/C1/assignment4(C1W4).zip)<br>
+- [**C1W2 编程作业1：构建一个逻辑回归分类器来识别猫【无答案】**](./assignment/assignment_noAnswers/C1/assignment2(C1W2).zip)
+- [**C1W2 编程作业1：构建一个逻辑回归分类器来识别猫【有答案】**](./assignment/assignment_withAnswers/C1/assignment2(C1W2).zip)
+- [**C1W3 编程作业2：通过一个隐藏层的神经网络来做平面数据的分类【无答案】**](./assignment/assignment_noAnswers/C1/assignment3(C1W3).zip)
+- [**C1W3 编程作业2：通过一个隐藏层的神经网络来做平面数据的分类【有答案】**](./assignment/assignment_withAnswers/C1/assignment3(C1W3).zip)
+- [**C1W4 编程作业3：构建深度神经网络做图像处理【无答案】**](./assignment/assignment_noAnswers/C1/assignment4(C1W4).zip)
+- [**C1W4 编程作业3：构建深度神经网络做图像处理【有答案】**](./assignment/assignment_withAnswers/C1/assignment4(C1W4).zip)
 
 ## 代码讲解视频(bilibili)
 **bilibili主页** : https://space.bilibili.com/10410626
 [![](./assets/bilibiliDemo.jpg)](https://space.bilibili.com/10410626)
-- [**C1W2 编程作业1：构建一个逻辑回归分类器来识别猫**](https://www.bilibili.com/video/av50307869)<br>
-- [**C1W3 编程作业2：通过一个隐藏层的神经网络来做平面数据的分类**](https://www.bilibili.com/video/av51486088)<br>
-- [**C1W4 编程作业3：构建深度神经网络做图像处理**](https://www.bilibili.com/video/av52785212)<br>
+- [**C1W2 编程作业1：构建一个逻辑回归分类器来识别猫**](https://www.bilibili.com/video/av50307869)
+- [**C1W3 编程作业2：通过一个隐藏层的神经网络来做平面数据的分类**](https://www.bilibili.com/video/av51486088)
+- [**C1W4 编程作业3：构建深度神经网络做图像处理**](https://www.bilibili.com/video/av52785212)
 
 ## 课程地址
 
