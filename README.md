@@ -14,8 +14,8 @@ xmind整理的笔记，持续更新中...
 - [**C1W2 神经网络的编程基础B.xmind**](./xmind/C1W2/C1W2%20神经网络的编程基础B.xmind)
 - [**C1W3 浅层神经网络A.xmind**](./xmind/C1W3/C1W3%20浅层神经网络A.xmind)
 - [**C1W3 浅层神经网络B.xmind**](./xmind/C1W3/C1W3%20浅层神经网络B.xmind)
-- [**C2W1 浅层神经网络A.xmind**](./xmind/C1W4/C1W4%20深度神经网络A.xmind)
-- [**C2W1 浅层神经网络B.xmind**](./xmind/C1W4/C1W4%20深度神经网络B.xmind)
+- [**C2W1 深层神经网络A.xmind**](./xmind/C1W4/C1W4%20深度神经网络A.xmind)
+- [**C2W1 深层神经网络B.xmind**](./xmind/C1W4/C1W4%20深度神经网络B.xmind)
 ## 测验
 
 ---
