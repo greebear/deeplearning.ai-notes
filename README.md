@@ -53,6 +53,9 @@ xmind整理的笔记，持续更新中...
 - [**C1W3 编程作业2：通过一个隐藏层的神经网络来做平面数据的分类【有答案】**](./assignment/assignment_withAnswers/C1/assignment3(C1W3).zip)
 - [**C1W4 编程作业3：构建深度神经网络做图像处理【无答案】**](./assignment/assignment_noAnswers/C1/assignment4(C1W4).zip)
 - [**C1W4 编程作业3：构建深度神经网络做图像处理【有答案】**](./assignment/assignment_withAnswers/C1/assignment4(C1W4).zip)
+- [**C2W1 选修作业：深度学习的实践【无答案】**](./assignment/assignment_noAnswers/C2/Practical%20aspects%20of%20Deep%20Learning.zip)
+- [**C2W1 选修作业：深度学习的实践【有答案】**](./assignment/assignment_withAnswers/C2/Practical%20aspects%20of%20Deep%20Learning.zip)
+
 
 ## 代码讲解视频(bilibili)
 **bilibili主页** : https://space.bilibili.com/10410626
