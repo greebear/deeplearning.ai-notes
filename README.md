@@ -14,8 +14,8 @@ xmind整理的笔记，持续更新中...
 - [**C1W2 神经网络的编程基础B.xmind**](./xmind/C1W2/C1W2%20神经网络的编程基础B.xmind)
 - [**C1W3 浅层神经网络A.xmind**](./xmind/C1W3/C1W3%20浅层神经网络A.xmind)
 - [**C1W3 浅层神经网络B.xmind**](./xmind/C1W3/C1W3%20浅层神经网络B.xmind)
-- [**C2W1 深层神经网络A.xmind**](./xmind/C1W4/C1W4%20深度神经网络A.xmind)
-- [**C2W1 深层神经网络B.xmind**](./xmind/C1W4/C1W4%20深度神经网络B.xmind)
+- [**C1W4 深层神经网络A.xmind**](./xmind/C1W4/C1W4%20深度神经网络A.xmind)
+- [**C1W4 深层神经网络B.xmind**](./xmind/C1W4/C1W4%20深度神经网络B.xmind)
 ## 测验
 
 ---
@@ -33,7 +33,7 @@ xmind整理的笔记，持续更新中...
 - [**C1W3 浅层神经网络【无答案】**](./trials/C1W3_noAnswers.md)
 - [**C1W4 深层神经网络【无答案】**](./trials/C1W4_noAnswers.md)
 - [**C2W1 深度学习的实践【无答案】**](./trials/C2W1_noAnswers.md)
-- [**C2W1 优化算法【无答案】**](./trials/C2W2_noAnswers.md)
+- [**C2W2 优化算法【无答案】**](./trials/C2W2_noAnswers.md)
 ---
 中文版本答案
 - [**C1W1 深度学习引言【有答案】**](./trials/C1W1_withAnswers.md)
@@ -41,7 +41,7 @@ xmind整理的笔记，持续更新中...
 - [**C1W3 浅层神经网络【有答案】**](./trials/C1W3_withAnswers.md)
 - [**C1W4 深层神经网络【有答案】**](./trials/C1W4_withAnswers.md)
 - [**C2W1 深度学习的实践【有答案】**](./trials/C2W1_withAnswers.md)
-- [**C2W1 优化算法【有答案】**](./trials/C2W2_withAnswers.md)
+- [**C2W2 优化算法【有答案】**](./trials/C2W2_withAnswers.md)
 ---
 
 ## 代码
