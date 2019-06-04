@@ -1,6 +1,8 @@
 <h1 align="center">《深度学习》学习笔记(xmind)、代码、代码视频讲解</h1>
 
-**Author** : greebear
+
+<p align="center"><a href="https://github.com/greebear"><img src="https://img.shields.io/badge/%E4%BD%9C%E8%80%85-greebear-blue.svg"></a></p>
+
 ## 入门指南
 - [**深度之眼学员入口**](./guide/guide.md)
 
