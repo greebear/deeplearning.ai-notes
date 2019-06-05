@@ -62,6 +62,8 @@ xmind整理的笔记，持续更新中...
 - [**C2W1 选修作业：深度学习的实践【有答案】**](./assignment/assignment_withAnswers/C2/Practical%20aspects%20of%20Deep%20Learning.zip)
 - [**C2W2 选修作业：优化算法【无答案】**](./assignment/assignment_noAnswers/C2/Optimization%20methods.zip)
 - [**C2W2 选修作业：优化算法【有答案】**](./assignment/assignment_withAnswers/C2/Optimization%20methods.zip)
+- [**C2W3 编程作业4：TensorFlow实战【无答案】**](./assignment/assignment_noAnswers/C2/Tensorflow%20Tutorial)
+- [**C2W3 编程作业4：TensorFlow实战【有答案】**](./assignment/assignment_withAnswers/C2/Tensorflow%20Tutorial)
 
 ## 代码讲解视频(bilibili)
 **bilibili主页** : https://space.bilibili.com/10410626
