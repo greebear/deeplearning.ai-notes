@@ -1,6 +1,9 @@
 <h1 align="center"> Tensorflow Tutorial </h1>
 
 ## dataset.zip 百度网盘下载地址
+
+dataset.zip较大，在git上如果下载较慢的话，请于百度网盘下载。
+
 链接:https://pan.baidu.com/s/1KdH_ytYbDn5xCoqHtiJarQ  密码:qdjv
 
 
