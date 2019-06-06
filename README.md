@@ -71,7 +71,7 @@ xmind整理的笔记，持续更新中...
 - [**C1W2 编程作业1：构建一个逻辑回归分类器来识别猫**](https://www.bilibili.com/video/av50307869)
 - [**C1W3 编程作业2：通过一个隐藏层的神经网络来做平面数据的分类**](https://www.bilibili.com/video/av51486088)
 - [**C1W4 编程作业3：构建深度神经网络做图像处理**](https://www.bilibili.com/video/av52785212)
-- [**C2W3 编程作业4：TensorFlow实战**](https://www.bilibili.com/video/av52785212)
+- [**C2W3 编程作业4：TensorFlow实战**](https://www.bilibili.com/video/av54668655)
 
 ## 课程地址
 
