@@ -49,6 +49,7 @@ xmind整理的笔记，持续更新中...
 - [**C2W1 深度学习的实践【有答案】**](./trials/C2W1_withAnswers.md)
 - [**C2W2 优化算法【有答案】**](./trials/C2W2_withAnswers.md)
 - [**C2W3 超参数调整、批量标准化、编程框架【有答案】**](./trials/C2W3_withAnswers.md)
+- [**C3W1 和平之城中的鸟类识别(案例研究)【有答案】**](./trials/C3W1_withAnswers.md)
 ---
 
 ## 代码
