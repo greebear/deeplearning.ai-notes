@@ -31,6 +31,7 @@ xmind整理的笔记，持续更新中...
 - [**C2W3 超参数调整、批量标准化、编程框架【无答案】**](./trials/C2W3_noAnswers_EnVer.md)
 - [**C3W1 和平之城中的鸟类识别(案例研究)【无答案】**](./trials/C3W1_noAnswers_EnVer.md)
 - [**C3W2 自动驾驶（案例研究）【无答案】**](./trials/C3W2_noAnswers_EnVer.md)
+- [**C4W1 卷积神经网络的基本知识【无答案】**](./trials/C4W1_noAnswers_EnVer.md)
 ---
 中文版本
 - [**C1W1 深度学习引言【无答案】**](./trials/C1W1_noAnswers.md)
@@ -42,6 +43,7 @@ xmind整理的笔记，持续更新中...
 - [**C2W3 超参数调整、批量标准化、编程框架【无答案】**](./trials/C2W3_noAnswers.md)
 - [**C3W1 和平之城中的鸟类识别(案例研究)【无答案】**](./trials/C3W1_noAnswers.md)
 - [**C3W2 自动驾驶（案例研究）【无答案】**](./trials/C3W2_noAnswers.md)
+- [**C4W1 卷积神经网络的基本知识【无答案】**](./trials/C4W1_noAnswers.md)
 ---
 中文版本答案
 - [**C1W1 深度学习引言【有答案】**](./trials/C1W1_withAnswers.md)
@@ -52,6 +54,7 @@ xmind整理的笔记，持续更新中...
 - [**C2W2 优化算法【有答案】**](./trials/C2W2_withAnswers.md)
 - [**C2W3 超参数调整、批量标准化、编程框架【有答案】**](./trials/C2W3_withAnswers.md)
 - [**C3W1 和平之城中的鸟类识别(案例研究)【有答案】**](./trials/C3W1_withAnswers.md)
+- [**C3W2 自动驾驶（案例研究）【有答案】**](./trials/C3W2_withAnswers.md)
 ---
 
 ## 代码
