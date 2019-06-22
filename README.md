@@ -82,6 +82,7 @@ xmind整理的笔记，持续更新中...
 - [**C1W3 编程作业2：通过一个隐藏层的神经网络来做平面数据的分类**](https://www.bilibili.com/video/av51486088)
 - [**C1W4 编程作业3：构建深度神经网络做图像处理**](https://www.bilibili.com/video/av52785212)
 - [**C2W3 编程作业4：TensorFlow实战**](https://www.bilibili.com/video/av54668655)
+- [**C4W1 编程作业5：一步步构建卷积神经网络**](https://www.bilibili.com/video/av56250374)
 
 ## 课程地址
 
