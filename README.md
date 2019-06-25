@@ -18,6 +18,7 @@ xmind整理的笔记，持续更新中...
 - [**C1W3 浅层神经网络B.xmind**](./xmind/C1W3/C1W3%20浅层神经网络B.xmind)
 - [**C1W4 深层神经网络A.xmind**](./xmind/C1W4/C1W4%20深度神经网络A.xmind)
 - [**C1W4 深层神经网络B.xmind**](./xmind/C1W4/C1W4%20深度神经网络B.xmind)
+- [**C2W1 深度学习的实践A.xmind**](./xmind/C2W1/C2W1深度学习的实践A.xmind)
 ## 测验
 
 ---
@@ -58,6 +59,7 @@ xmind整理的笔记，持续更新中...
 - [**C3W1 和平之城中的鸟类识别(案例研究)【有答案】**](./trials/C3W1_withAnswers.md)
 - [**C3W2 自动驾驶（案例研究）【有答案】**](./trials/C3W2_withAnswers.md)
 - [**C4W1 卷积神经网络的基本知识【有答案】**](./trials/C4W1_withAnswers.md)
+- [**C4W2 深度卷积网络模型【有答案】**](./trials/C4W2_withAnswers.md)
 ---
 
 ## 代码
