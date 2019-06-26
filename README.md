@@ -79,6 +79,8 @@ xmind整理的笔记，持续更新中...
 - [**C2W3 编程作业4：TensorFlow实战【有答案】**](./assignment/assignment_withAnswers/C2/Tensorflow%20Tutorial)
 - [**C4W1 编程作业5：一步步构建卷积神经网络【无答案】**](./assignment/assignment_noAnswers/C4/Convolution%20model%20Application.zip)
 - [**C4W1 编程作业5：一步步构建卷积神经网络【有答案】**](./assignment/assignment_withAnswers/C4/Convolution%20model%20Application.zip)
+- [**C4W1 编程作业6：利用Kears框架构建残差网络【无答案】**](./assignment/assignment_noAnswers/C4/KerasAndResNets)
+- [**C4W1 编程作业6：利用Kears框架构建残差网络【有答案】**](./assignment/assignment_withAnswers/C4/KerasAndResNets)
 
 ## 代码讲解视频(bilibili)
 **bilibili主页** : https://space.bilibili.com/10410626
