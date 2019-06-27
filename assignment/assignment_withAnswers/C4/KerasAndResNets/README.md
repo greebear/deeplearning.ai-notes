@@ -1,4 +1,4 @@
-<h1 align="center"> 利用Kears框架构建残差网络 </h1>
+<h1 align="center"> 利用Keras框架构建残差网络 </h1>
 
 ## ResNet50.h5 下载地址
 
