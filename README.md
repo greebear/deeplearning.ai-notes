@@ -84,6 +84,7 @@ xmind整理的笔记，持续更新中...
 - [**C4W2 编程作业6：利用Keras框架构建残差网络【无答案】**](./assignment/assignment_noAnswers/C4/KerasAndResNets)
 - [**C4W2 编程作业6：利用Keras框架构建残差网络【有答案】**](./assignment/assignment_withAnswers/C4/KerasAndResNets)
 - [**C4W3 编程作业7：自动驾驶—目标检测（yolo模型）**](./assignment/assignment_withAnswers/C4/Car%20Detection/README.md)
+- [**C4W4 编程作业8：特殊应用(人脸识别和神经风格迁移)**](./assignment/assignment_withAnswers/C4/Face%20Recognition&Neural%20Style%20Transfer/README.md)
 ## 代码讲解视频(bilibili)
 **bilibili主页** : https://space.bilibili.com/10410626
 [![](./assets/bilibiliDemo.jpg)](https://space.bilibili.com/10410626)
