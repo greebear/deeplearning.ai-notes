@@ -36,6 +36,7 @@ xmind整理的笔记，持续更新中...
 - [**C3W2 自动驾驶（案例研究）【无答案】**](./trials/C3W2_noAnswers_EnVer.md)
 - [**C4W1 卷积神经网络的基本知识【无答案】**](./trials/C4W1_noAnswers_EnVer.md)
 - [**C4W2 深度卷积网络模型【无答案】**](./trials/C4W2_noAnswers_EnVer.md)
+- [**C4W3 目标检测算法【无答案】**](./trials/C4W3_noAnswers_EnVer.md)
 ---
 中文版本
 - [**C1W1 深度学习引言【无答案】**](./trials/C1W1_noAnswers.md)
@@ -49,6 +50,7 @@ xmind整理的笔记，持续更新中...
 - [**C3W2 自动驾驶（案例研究）【无答案】**](./trials/C3W2_noAnswers.md)
 - [**C4W1 卷积神经网络的基本知识【无答案】**](./trials/C4W1_noAnswers.md)
 - [**C4W2 深度卷积网络模型【无答案】**](./trials/C4W2_noAnswers.md)
+- [**C4W3 目标检测算法【无答案】**](./trials/C4W3_noAnswers.md)
 ---
 中文版本答案
 - [**C1W1 深度学习引言【有答案】**](./trials/C1W1_withAnswers.md)
@@ -62,6 +64,7 @@ xmind整理的笔记，持续更新中...
 - [**C3W2 自动驾驶（案例研究）【有答案】**](./trials/C3W2_withAnswers.md)
 - [**C4W1 卷积神经网络的基本知识【有答案】**](./trials/C4W1_withAnswers.md)
 - [**C4W2 深度卷积网络模型【有答案】**](./trials/C4W2_withAnswers.md)
+- [**C4W3 目标检测算法【有答案】**](./trials/C4W3_withAnswers.md)
 ---
 
 ## 代码
