@@ -20,7 +20,9 @@ xmind整理的笔记，持续更新中...
 - [**C1W4 深层神经网络B.xmind**](./xmind/C1W4/C1W4%20深度神经网络B.xmind)
 - [**C2W1 深度学习的实践A.xmind**](./xmind/C2W1/C2W1深度学习的实践A.xmind)
 - [**C2W1 深度学习的实践B.xmind**](./xmind/C2W1/C2W1深度学习的实践B.xmind)
-- [**C2W2 优化算法.xmind**](./xmind/C2W2/C2W2优化算法.xmind)
+- [**C2W2 优化算法.xmind**](./xmind/C2W2/C2W2%20优化算法.xmind)
+- [**C2W3 超参数调试、正则化以及优化.xmind**](./xmind/C2W3/C2W3%20超参数调试、正则化以及优化.xmind)
+
 ## 测验
 
 ---
