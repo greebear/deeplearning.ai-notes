@@ -39,6 +39,8 @@ xmind整理的笔记，持续更新中...
 - [**C4W1 卷积神经网络的基本知识【无答案】**](./trials/C4W1_noAnswers_EnVer.md)
 - [**C4W2 深度卷积网络模型【无答案】**](./trials/C4W2_noAnswers_EnVer.md)
 - [**C4W3 目标检测算法【无答案】**](./trials/C4W3_noAnswers_EnVer.md)
+- [**C4W4 人脸识别与神经风格迁移【无答案】**](./trials/C4W3_noAnswers_EnVer.md)
+- [**C5W1 循环神经网络【无答案】**](./trials/C4W3_noAnswers_EnVer.md)
 ---
 中文版本
 - [**C1W1 深度学习引言【无答案】**](./trials/C1W1_noAnswers.md)
