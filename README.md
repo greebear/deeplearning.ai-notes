@@ -55,6 +55,7 @@ xmind整理的笔记，持续更新中...
 - [**C4W1 卷积神经网络的基本知识【无答案】**](./trials/C4W1_noAnswers.md)
 - [**C4W2 深度卷积网络模型【无答案】**](./trials/C4W2_noAnswers.md)
 - [**C4W3 目标检测算法【无答案】**](./trials/C4W3_noAnswers.md)
+- [**C4W4 人脸识别与神经风格迁移【无答案】**](./trials/C4W4_noAnswers.md)
 - [**C5W1 循环神经网络【无答案】**](./trials/C5W1_noAnswers.md)
 ---
 中文版本答案
@@ -70,6 +71,7 @@ xmind整理的笔记，持续更新中...
 - [**C4W1 卷积神经网络的基本知识【有答案】**](./trials/C4W1_withAnswers.md)
 - [**C4W2 深度卷积网络模型【有答案】**](./trials/C4W2_withAnswers.md)
 - [**C4W3 目标检测算法【有答案】**](./trials/C4W3_withAnswers.md)
+- [**C4W4 人脸识别与神经风格迁移【有答案】**](./trials/C4W4_withAnswers.md)
 - [**C5W1 循环神经网络【有答案】**](./trials/C5W1_withAnswers.md)
 ---
 
