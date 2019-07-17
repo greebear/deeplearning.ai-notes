@@ -104,6 +104,8 @@ xmind整理的笔记，持续更新中...
 - [**C5W1 编程作业9：字符级语言模型 - 恐龙岛【有答案】**](./assignment/assignment_withAnswers/C5/dinosaurus%20island.zip)
 - [**C5W1 编程作业10：使用LSTM即兴演奏Jazz Solo【无答案】**](./assignment/assignment_noAnswers/C5/Jazz%20improvisation%20with%20LSTM.zip)
 - [**C5W1 编程作业10：使用LSTM即兴演奏Jazz Solo【有答案】**](./assignment/assignment_withAnswers/C5/Jazz%20improvisation%20with%20LSTM.zip)
+- [**C5W2 编程作业11：词向量运算**](./assignment/assignment_withAnswers/C5/Word%20Vector%20Representation/README.md)
+- [**C5W2 编程作业12：Emoji表情生成器**](./assignment/assignment_withAnswers/C5/Emojify/README.md)
 
 ## 代码讲解视频(bilibili)
 **bilibili主页** : https://space.bilibili.com/10410626
