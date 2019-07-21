@@ -22,6 +22,9 @@ xmind整理的笔记，持续更新中...
 - [**C2W1 深度学习的实践B.xmind**](./xmind/C2W1/C2W1深度学习的实践B.xmind)
 - [**C2W2 优化算法.xmind**](./xmind/C2W2/C2W2%20优化算法.xmind)
 - [**C2W3 超参数调试、正则化以及优化.xmind**](./xmind/C2W3/C2W3%20超参数调试、正则化以及优化.xmind)
+- [**C3W1 机器学习（ML）策略（1）.xmind**](./xmind/C3W1/C3W1%20机器学习（ML）策略（1）.xmind)
+- [**C3W2 机器学习（ML）策略（2）.xmind**](./xmind/C3W2/C3W2%20机器学习（ML）策略（2）.xmind)
+- [**C4W1 卷积神经网络.xmind**](./xmind/C4W1/C4W1%20卷积神经网络.xmind)
 
 ## 测验
 
@@ -42,6 +45,7 @@ xmind整理的笔记，持续更新中...
 - [**C4W4 人脸识别与神经风格迁移【无答案】**](./trials/C4W4_noAnswers_EnVer.md)
 - [**C5W1 循环神经网络【无答案】**](./trials/C5W1_noAnswers_EnVer.md)
 - [**C5W2 自然语言处理与词嵌入【无答案】**](./trials/C5W2_noAnswers_EnVer.md)
+- [**C5W3 序列模型与注意力机制【无答案】**](./trials/C5W3_noAnswers_EnVer.md)
 
 ---
 中文版本
@@ -60,6 +64,7 @@ xmind整理的笔记，持续更新中...
 - [**C4W4 人脸识别与神经风格迁移【无答案】**](./trials/C4W4_noAnswers.md)
 - [**C5W1 循环神经网络【无答案】**](./trials/C5W1_noAnswers.md)
 - [**C5W2 自然语言处理与词嵌入【无答案】**](./trials/C5W2_noAnswers.md)
+- [**C5W3 序列模型与注意力机制【无答案】**](./trials/C5W3_noAnswers.md)
 ---
 中文版本答案
 - [**C1W1 深度学习引言【有答案】**](./trials/C1W1_withAnswers.md)
@@ -77,6 +82,7 @@ xmind整理的笔记，持续更新中...
 - [**C4W4 人脸识别与神经风格迁移【有答案】**](./trials/C4W4_withAnswers.md)
 - [**C5W1 循环神经网络【有答案】**](./trials/C5W1_withAnswers.md)
 - [**C5W2 自然语言处理与词嵌入【有答案】**](./trials/C5W2_withAnswers.md)
+- [**C5W3 序列模型与注意力机制【有答案】**](./trials/C5W3_withAnswers.md)
 ---
 
 ## 代码
