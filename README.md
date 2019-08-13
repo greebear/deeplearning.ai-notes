@@ -25,6 +25,7 @@ xmind整理的笔记，持续更新中...
 - [**C3W1 机器学习（ML）策略（1）.xmind**](./xmind/C3W1/C3W1%20机器学习（ML）策略（1）.xmind)
 - [**C3W2 机器学习（ML）策略（2）.xmind**](./xmind/C3W2/C3W2%20机器学习（ML）策略（2）.xmind)
 - [**C4W1 卷积神经网络.xmind**](./xmind/C4W1/C4W1%20卷积神经网络.xmind)
+- [**上海财经大学金成博士分享：利用AI做金融市场预测靠谱吗**](./xmind/AIAndFinance/)
 
 ## 测验
 
